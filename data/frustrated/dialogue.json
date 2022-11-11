@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "ok i dont get it why do your voice sound like a robot",
+			"boxState": "normal",
+			"portrait": "rylan",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "cuz thats his voice dumb dumb T_T",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "YEAH",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talkangry",
+			"text": "well its annoying",
+			"boxState": "normal",
+			"portrait": "rylan",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "swag",
+			"text": "ok fine i will sing again",
+			"boxState": "normal",
+			"portrait": "rylan",
+			"speed": 0.05
+		}
+	]
+}

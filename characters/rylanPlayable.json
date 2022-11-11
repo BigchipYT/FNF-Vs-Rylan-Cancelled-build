@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				40,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN0"
+		},
+		{
+			"offsets": [
+				-55,
+				4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "I D L E shaking"
+		},
+		{
+			"offsets": [
+				-5,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "I D L E0"
+		},
+		{
+			"offsets": [
+				31,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP0"
+		},
+		{
+			"offsets": [
+				122,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT0"
+		},
+		{
+			"offsets": [
+				-56,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "HEY"
+		},
+		{
+			"offsets": [
+				5,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LEFTMISS"
+		},
+		{
+			"offsets": [
+				50,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DOWNMISS"
+		},
+		{
+			"offsets": [
+				31,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UPMISS"
+		},
+		{
+			"offsets": [
+				122,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RIGHTMISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				20
+			],
+			"anim": "deathStart",
+			"fps": 24,
+			"name": "CedStart",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				149,
+				20
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BedLoop0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				20
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "dedConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rylan",
+	"position": [
+		160,
+		210
+	],
+	"healthicon": "rylan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

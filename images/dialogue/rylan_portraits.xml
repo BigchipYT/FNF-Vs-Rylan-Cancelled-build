@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rylan_portraits.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="1693" y="0" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="angry0001" x="1693" y="0" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="angry0002" x="1860" y="0" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="angry0003" x="1860" y="0" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="angry0004" x="0" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="angry0005" x="0" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="angry0006" x="0" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="angryGod0000" x="515" y="0" width="187" height="314" frameX="-32" frameY="0" frameWidth="219" frameHeight="316"/>
+	<SubTexture name="angryGod0001" x="515" y="0" width="187" height="314" frameX="-32" frameY="0" frameWidth="219" frameHeight="316"/>
+	<SubTexture name="angryGod0002" x="702" y="0" width="196" height="311" frameX="-16" frameY="-4" frameWidth="219" frameHeight="316"/>
+	<SubTexture name="angryGod0003" x="702" y="0" width="196" height="311" frameX="-16" frameY="-4" frameWidth="219" frameHeight="316"/>
+	<SubTexture name="angryGod0004" x="898" y="0" width="205" height="307" frameX="0" frameY="-9" frameWidth="219" frameHeight="316"/>
+	<SubTexture name="angryGod0005" x="898" y="0" width="205" height="307" frameX="0" frameY="-9" frameWidth="219" frameHeight="316"/>
+	<SubTexture name="angryGod0006" x="898" y="0" width="205" height="307" frameX="0" frameY="-9" frameWidth="219" frameHeight="316"/>
+	<SubTexture name="confused0000" x="177" y="314" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="confused0001" x="177" y="314" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="confused0002" x="344" y="314" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="confused0003" x="344" y="314" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="confused0004" x="515" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="confused0005" x="515" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="confused0006" x="515" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="laughing0000" x="692" y="314" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="laughing0001" x="692" y="314" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="laughing0002" x="859" y="314" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="laughing0003" x="859" y="314" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="laughing0004" x="1030" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="laughing0005" x="1030" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="laughing0006" x="1030" y="314" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="swag0000" x="1207" y="314" width="188" height="307" frameX="-4" frameY="0" frameWidth="192" frameHeight="307"/>
+	<SubTexture name="swag0001" x="1207" y="314" width="188" height="307" frameX="-4" frameY="0" frameWidth="192" frameHeight="307"/>
+	<SubTexture name="swag0002" x="1395" y="314" width="190" height="303" frameX="-2" frameY="-4" frameWidth="192" frameHeight="307"/>
+	<SubTexture name="swag0003" x="1395" y="314" width="190" height="303" frameX="-2" frameY="-4" frameWidth="192" frameHeight="307"/>
+	<SubTexture name="swag0004" x="1585" y="314" width="192" height="298" frameX="0" frameY="-9" frameWidth="192" frameHeight="307"/>
+	<SubTexture name="swag0005" x="1585" y="314" width="192" height="298" frameX="0" frameY="-9" frameWidth="192" frameHeight="307"/>
+	<SubTexture name="swag0006" x="1585" y="314" width="192" height="298" frameX="0" frameY="-9" frameWidth="192" frameHeight="307"/>
+	<SubTexture name="talking0000" x="1777" y="314" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talking0001" x="1777" y="314" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talking0002" x="0" y="621" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talking0003" x="0" y="621" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talking0004" x="171" y="621" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talking0005" x="171" y="621" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talking0006" x="171" y="621" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingAngry0000" x="0" y="0" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingAngry0001" x="0" y="0" width="167" height="307" frameX="-4" frameY="0" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingAngry0002" x="167" y="0" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingAngry0003" x="167" y="0" width="171" height="303" frameX="-2" frameY="-4" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingAngry0004" x="338" y="0" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingAngry0005" x="338" y="0" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingAngry0006" x="338" y="0" width="177" height="298" frameX="0" frameY="-9" frameWidth="177" frameHeight="307"/>
+	<SubTexture name="talkingGod0000" x="1103" y="0" width="189" height="314" frameX="-32" frameY="0" frameWidth="221" frameHeight="316"/>
+	<SubTexture name="talkingGod0001" x="1103" y="0" width="189" height="314" frameX="-32" frameY="0" frameWidth="221" frameHeight="316"/>
+	<SubTexture name="talkingGod0002" x="1292" y="0" width="196" height="311" frameX="-16" frameY="-4" frameWidth="221" frameHeight="316"/>
+	<SubTexture name="talkingGod0003" x="1292" y="0" width="196" height="311" frameX="-16" frameY="-4" frameWidth="221" frameHeight="316"/>
+	<SubTexture name="talkingGod0004" x="1488" y="0" width="205" height="307" frameX="0" frameY="-9" frameWidth="221" frameHeight="316"/>
+	<SubTexture name="talkingGod0005" x="1488" y="0" width="205" height="307" frameX="0" frameY="-9" frameWidth="221" frameHeight="316"/>
+	<SubTexture name="talkingGod0006" x="1488" y="0" width="205" height="307" frameX="0" frameY="-9" frameWidth="221" frameHeight="316"/>
+</TextureAtlas>

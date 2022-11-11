@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		230,
+		90
+	],
+	"scale": 1.75,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talking0",
+			"idle_name": "talkingDone"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "confusedDone",
+			"loop_name": "confused0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "god",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talkingGodDone",
+			"loop_name": "talkingGod0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "laughing",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "laughingDone",
+			"loop_name": "laughing0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "godMad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angryGod0",
+			"idle_name": "angryGodDone"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "swag",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "swag0",
+			"idle_name": "swagDone"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "angry0",
+			"idle_name": "angryDone"
+		},
+		{
+			"loop_name": "talkingAngry0",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talkingAngryDone",
+			"anim": "talkangry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "rylan_portraits"
+}

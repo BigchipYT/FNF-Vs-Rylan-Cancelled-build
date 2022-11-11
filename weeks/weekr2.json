@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"707-Domination",
+			"rylan-707",
+			[
+				0,
+				0,
+				135
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "app-city",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"rylan",
+		"bf",
+		"gf"
+	],
+	"storyName": "why tf are you in here",
+	"weekName": "707",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

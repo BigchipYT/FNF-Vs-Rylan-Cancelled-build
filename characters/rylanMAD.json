@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transform",
+			"indices": [],
+			"name": "transphorm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "I D L E",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				340
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LEFTMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				290
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DOWNMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				387
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UPMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				320
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "RIGHTMISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LEFT0"
+		},
+		{
+			"offsets": [
+				-10,
+				290
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DOWN0"
+		},
+		{
+			"offsets": [
+				1,
+				387
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UP0"
+		},
+		{
+			"offsets": [
+				2,
+				320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rylan_mad",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "rylan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		255
+	],
+	"camera_position": [
+		0,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

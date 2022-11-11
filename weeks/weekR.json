@@ -1,0 +1,49 @@
+{
+	"storyName": "Blue Hoodies Are Cool",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "app-city",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Hello",
+			"rylan",
+			[
+				48,
+				113,
+				253
+			]
+		],
+		[
+			"Frustrated",
+			"rylan",
+			[
+				28,
+				53,
+				253
+			]
+		],
+		[
+			"Go Away",
+			"rylan-god",
+			[
+				0,
+				0,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"rylan",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekr"
+}

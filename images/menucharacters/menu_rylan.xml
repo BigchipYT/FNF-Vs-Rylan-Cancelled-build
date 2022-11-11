@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_rylan.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="I D L E instance 10000" x="3965" y="50" width="347" height="619" frameX="0" frameY="-83" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10001" x="4362" y="50" width="338" height="630" frameX="-3" frameY="-72" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10002" x="4750" y="50" width="329" height="640" frameX="-5" frameY="-61" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10003" x="5129" y="50" width="323" height="650" frameX="-5" frameY="-51" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10004" x="5502" y="50" width="315" height="660" frameX="-6" frameY="-41" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10005" x="5867" y="50" width="308" height="671" frameX="-7" frameY="-30" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10006" x="6225" y="50" width="300" height="681" frameX="-8" frameY="-20" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10007" x="6575" y="50" width="293" height="690" frameX="-8" frameY="-10" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10008" x="6918" y="50" width="285" height="700" frameX="-9" frameY="0" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10009" x="6918" y="50" width="285" height="700" frameX="-9" frameY="0" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10010" x="6918" y="50" width="285" height="700" frameX="-9" frameY="0" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10011" x="6918" y="50" width="285" height="700" frameX="-9" frameY="0" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10012" x="6918" y="50" width="285" height="700" frameX="-9" frameY="0" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10013" x="6918" y="50" width="285" height="700" frameX="-9" frameY="0" frameWidth="347" frameHeight="702"/>
+	<SubTexture name="I D L E instance 10014" x="6918" y="50" width="285" height="700" frameX="-9" frameY="0" frameWidth="347" frameHeight="702"/>
+</TextureAtlas>

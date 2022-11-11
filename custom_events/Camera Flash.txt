@@ -1,0 +1,4 @@
+Flashes The Camera
+
+Value 1: Color Hex Example: FFFFFF (White)
+Value 2: Duration

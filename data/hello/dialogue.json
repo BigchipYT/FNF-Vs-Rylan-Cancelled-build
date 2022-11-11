@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "who the frick is you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "laughing",
+			"text": "your name is boyfriend what the heck kind of a name is that",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "pissed",
+			"text": "BEEP SKEDOO POO",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "swag",
+			"text": "rap battle? um ok i guess",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

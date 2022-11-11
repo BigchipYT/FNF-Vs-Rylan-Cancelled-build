@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "godMad",
+			"text": "OK THATS IT IM DONE",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "confused",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "godMad",
+			"text": "your beep sounds are annoying as frick",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "pissed",
+			"text": "did i ask? lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "godMad",
+			"text": "SHUT THE FRICK UP",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "godMad",
+			"text": "I KNOW ABOUT YOU USING BOTPLAY BECAUSE YOUR GARBADGE AND I KNOW ABOUT YOUR POWER TO RESET TIME",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "talk",
+			"text": "i swear on the third song on every mod the character gets mad",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "god",
+			"text": "WHAT?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rylan"
+		},
+		{
+			"expression": "talk",
+			"text": "nothing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

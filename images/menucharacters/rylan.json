@@ -1,0 +1,10 @@
+{
+	"idle_anim": "I D L E instance",
+	"image": "Menu_rylan",
+	"position": [
+		70,
+		174
+	],
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

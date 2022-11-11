@@ -1,0 +1,4 @@
+Fades In The Camera
+
+Value 1: Color Hex Example: 000000 (Black)
+Value 2: Duration

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ERRRR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				340
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				290
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				467
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				320
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				480
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "ATTACK",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rylan707",
+	"position": [
+		-140,
+		100
+	],
+	"healthicon": "rylan-707",
+	"flip_x": false,
+	"healthbar_colors": [
+		26,
+		26,
+		26
+	],
+	"camera_position": [
+		0,
+		-590
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}
